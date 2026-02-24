@@ -146,8 +146,8 @@ http://127.0.0.1:5000
 
 * MDN Web Docs – https://developer.mozilla.org/
 
-## 👩‍💻 Developed By
+## 👨‍💻 Developed By
 
-**Soumya Kamisetti**
-IBM SkillsBuild Virtual Internship
-AI-based Project
+**Soumya Kamisetti**  
+IBM SkillsBuild Virtual Internship  
+AI-Based Project  
